@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es  un repositorio del modulo2 del PrepCourse e Henry
+Este proyecto es una prueba de como crear un repsitorio y clonarlo esde githyb a mi computador.
